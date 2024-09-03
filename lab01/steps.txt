@@ -1,0 +1,35 @@
+penup
+goto, -150, 140, 5, Black
+pendown
+goto, 150, 140, 5, Black
+penup
+goto, -150, -300, 5, Black
+pendown
+goto, 150, -300, 5, Black
+penup
+goto, -150, 140, 5, Black
+pendown
+goto, -150, -300, 5, Black
+penup
+goto, 150, 140, 5, Black
+pendown
+goto, 150, -300, 5, Black
+penup
+#drawing eye
+goto, -100, 50, 5, Red
+pendown
+eye
+penup
+goto, 100, 50, 5, Red
+pendown
+eye
+penup
+goto, -70, -250, 5, Black
+pendown
+goto, 70, -250, 5, Black
+goto, 80, -240, 5, Black
+penup
+goto, 0, 0, 5, Black
+pendown
+goto, 0, -50, 5, Black 
+
